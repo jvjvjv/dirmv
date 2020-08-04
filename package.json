@@ -1,0 +1,26 @@
+{
+  "name": "rename-cli",
+  "version": "0.1.0",
+  "description": "Renames files",
+  "main": "index.js",
+  "bin": {
+    "dirmv": "bin/index.js"
+  },
+  "author": "Jason Vertucio",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvjvjv/rename-cli.git"
+  },
+  "keywords": [
+    "rename"
+  ],
+  "bugs": {
+    "url": "https://github.com/jvjvjv/rename-cli/issues"
+  },
+  "homepage": "https://github.com/jvjvjv/rename-cli#readme"
+}
